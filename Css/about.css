@@ -1,0 +1,25 @@
+.about {
+    background-color: #354b6b;
+    padding: 20px;
+    color: #fff;
+}
+
+.about-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.about-content {
+    margin-top: 50px;
+}
+
+.about-content div h2 {
+    font-size: 28px;
+}
+
+.about-content a {
+    background-color: orange;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: #fff;
+}
